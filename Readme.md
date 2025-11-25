@@ -76,6 +76,10 @@ jobs:
 └── README.md
 ```
 
+## Disclaimer
+
+This project was created inspired in the course of Playwright Express by Fernando Papito
+for testing and educational purposes
 ## 🧾 License
 
 This project is for demonstration and testing purposes only.  
